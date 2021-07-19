@@ -6,3 +6,8 @@ ver.txt https://raw.githubusercontent.com/SakuraOxygen/dreamerbuilds/main/ver.tx
 /system/ver.txt https://raw.githubusercontent.com/SakuraOxygen/dreamerbuilds/main/ver.txt
 /system/test.zip https://raw.githubusercontent.com/SakuraOxygen/dreamerbuilds/main/test.zip
   <End of Version>
+
+  <Version: 2.1-TEST>
+/system/ver.txt https://raw.githubusercontent.com/SakuraOxygen/dreamerbuilds/main/ver.txt
+/system/test.zip https://raw.githubusercontent.com/SakuraOxygen/dreamerbuilds/main/test.zip
+  <End of Version>
